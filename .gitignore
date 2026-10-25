@@ -7,25 +7,3 @@
 venv/
 .venv/
 env/
-
-# Python cache
-__pycache__/
-*.py[cod]
-
-# Logs
-*.log
-
-# IDE settings
-.idea/
-
-# Operating system files
-.DS_Store
-Thumbs.db
-
-# Test artifacts
-.pytest_cache/
-.coverage
-htmlcov/
-
-# Node.js dependencies, if applicable
-node_modules/
